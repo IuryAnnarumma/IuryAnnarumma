@@ -1,5 +1,5 @@
 ### Hi there! I'm Iury Annarumma. Feel free to check out my projects 👋
-- 😄 Pronouns: he/him (ele/dele)
+* 😄 Pronouns: he/him (ele/dele)
 * 🔭 I’m currently working as a freelancer looking for front-end developer job  
 (:brazil:) _Estou atualmente trabalhando como freelancer e procurando emprego como desenvolvedor front-end_
 * 🌱 I’m currently learning **JavaScript**, **React**, and **Angular**  
