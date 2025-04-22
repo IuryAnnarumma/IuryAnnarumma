@@ -1,5 +1,5 @@
 ### Hi there! I'm Iury Annarumma. Feel free to check out my projects 👋
-* 🔭 I’m currently working as a freelancer looking for front-end developer job  
+* 🎓I'm a **Data Scientist** / **Machine Learning Engineer** with a postgraduate degree in Artificial Intelligence (2025).
 (:brazil:) _Estou atualmente trabalhando como freelancer e procurando emprego como desenvolvedor front-end_
 * 🌱 I’m currently learning **JavaScript**, **React**, and **Angular**  
 (:brazil:) _Estou atualmente aprendendo **JavaScript**, **React**, and **Angular**_
