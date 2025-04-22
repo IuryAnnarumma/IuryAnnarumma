@@ -14,14 +14,12 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IuryAnnarumma&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryAnnarumma&layout=compact&langs_count=7&theme=merko"/>
 </div> 
-<!--Linguagens utilizadas--> 
+<!--Linguagens/bibliotecas utilizadas--> 
 <div style="display: inline_block"><br>
   <img align="center" alt="Iury-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Iury-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Iury-Angular" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  <img align="center" alt="Iury-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Iury-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Iury-VSCode" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
+  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+  <img alt="Iury-Azure" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Azure.svg">
+
 <!--links-->     
 <br>
  
