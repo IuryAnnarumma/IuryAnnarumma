@@ -1,10 +1,10 @@
 ### Hi there! I'm Iury Annarumma. Feel free to check out my projects 👋
 * 🎓I'm a **Data Scientist** / **Machine Learning Engineer** with a postgraduate degree in Artificial Intelligence (2025).
-(:brazil:) _Estou atualmente trabalhando como freelancer e procurando emprego como desenvolvedor front-end_
-* 🌱 I’m currently learning **JavaScript**, **React**, and **Angular**  
-(:brazil:) _Estou atualmente aprendendo **JavaScript**, **React**, and **Angular**_
-* ⚡ Fun fact: I'm graduated in museology. However, it was working with programming that I've discovered my passion  
-(:brazil:) _Sou graduado em museologia. Entretanto, foi trabalhando com programação que descobri minha paixão_
+(:brazil:) Sou Cientista de Dados / Engenheiro de Machine Learning com pós graduação em Inteligência Artificial (2025)
+* 🤖 I’m passionate about **AI** and **machine learning**, always eager to explore new models and solve complex challenges.
+(:brazil:) Apaixonado por IA e Aprendizado de Máquina e meu foco principal é em explorar novos modelos e resolver desafios complexos.
+* 💡 My greatest motivation is to analyze **business models** and **complex problems**, and transform them into **practical, intelligent solutions**.
+(:brazil:) Minha maior motivação é analisar Modelos de Negócio e problemas complexos e aplicá-los para obter soluções inteligentes e práticas.
 
 ##
 
