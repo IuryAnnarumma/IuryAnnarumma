@@ -16,8 +16,9 @@
 </div> 
 <!--Linguagens/bibliotecas utilizadas--> 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Iury-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="[Icon]" height="[Height]" width="[Width]" src="https://github.com/gui-bus/TechIcons/blob/main/[Theme]/[Icon].svg">
+  <img alt="Python" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Python.svg">
+  <img alt="SQL Server" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/SQL Server.svg">
+  <img alt="Python" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/[Icon].svg">
   <img alt="Azure" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Azure.svg">
   <img alt="Power BI" height="40" width="40" src="https://github.com/gui-bus/TechIcons/blob/main/Dark/Power BI.svg">
 
