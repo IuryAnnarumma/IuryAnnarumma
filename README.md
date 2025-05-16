@@ -2,16 +2,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20There!%20👋&fontSize=45&desc=Feel%20freee%20to%20check%20out%20my%20projects!&descAlignY=90&height=100&section=header&fontColor=d6ace6&animation=twinkling&" style="width=100%;"/>
 </p>
 
-<p>
-* 🎓I'm a <strong>Data Scientist</strong> / <strong>Machine Learning Engineer</strong> with a postgraduate degree in Artificial Intelligence (2025).
-> <i> Sou Cientista de Dados / Engenheiro de Machine Learning com pós graduação em Inteligência Artificial (2025) </i>
-
-* 🤖 I’m passionate about <strong>AI</strong> and <strong>Machine Learning Engineer</strong>, always eager to explore new models and solve complex challenges.
-> <i> Apaixonado por IA e Aprendizado de Máquina e meu foco principal é em explorar novos modelos e resolver desafios complexos. </i>
-
-* 💡 My greatest motivation is to analyze <strong>business models</strong> and <strong>complex problems</strong>, and transform them into <strong>practical, intelligent solutions</strong>.
-> <i> Minha maior motivação é analisar Modelos de Negócio e problemas complexos e aplicá-los para obter soluções inteligentes e práticas.</i>
-</p>
+<ul>
+  <li>🎓 <strong>Data Scientist/Machine Learning Engineer</strong> with a postgraduate degree in Artificial Intelligence (2025).<br>
+      <i>Sou Cientista de Dados/Engenheiro de Machine Learning com pós-graduação em Inteligência Artificial (2025).</i></li>
+  
+  <li>🤖 Passionate about <strong>AI</strong> and <strong>Machine Learning</strong>, focused on exploring new models and solving complex challenges.<br>
+      <i>Apaixonado por IA e Aprendizado de Máquina, com foco em explorar novos modelos e resolver desafios complexos.</i></li>
+  
+  <li>💡 My motivation: Analyzing <strong>business models</strong> and <strong>complex problems</strong> to build <strong>intelligent solutions</strong>.<br>
+      <i>Minha motivação: Analisar modelos de negócio e problemas complexos para criar soluções inteligentes.</i></li>
+</ul>
 
 ## 
 <!-- Estatísticas-->
@@ -31,8 +31,6 @@
 <a href="https://www.instagram.com/iuryannarumma/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/iury-annarumma-6a7ba613a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:iurymuseu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
-<p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
  
