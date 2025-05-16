@@ -1,4 +1,8 @@
-### Hi there! I'm Iury Annarumma. Feel free to check out my projects 👋
+<p align="center" > 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20There!%20👋&fontSize=45&desc=Feel%20freee%20to%20check%20out%20my%20projects!&descAlignY=90&height=100&section=header&fontColor=d6ace6&animation=twinkling&" style="width=100%;"/>
+</p>
+
+
 * 🎓I'm a **Data Scientist** / **Machine Learning Engineer** with a postgraduate degree in Artificial Intelligence (2025).
 > <i> Sou Cientista de Dados / Engenheiro de Machine Learning com pós graduação em Inteligência Artificial (2025) </i>
 
@@ -15,7 +19,6 @@
   <a href="https://github.com/IuryAnnarumma">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=IuryAnnarumma&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
 
-  <!-- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IuryAnnarumma&layout=compact&langs_count=7&theme=merko"/> -->
 </div> 
 <!--Linguagens/bibliotecas utilizadas--> 
 <div style="display: inline_block"><br>
@@ -38,6 +41,10 @@
   <img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 <!--links-->     
 <br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
  
  ##
  
@@ -45,7 +52,6 @@
 <a href="https://www.instagram.com/iuryannarumma/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/iury-annarumma-6a7ba613a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:iurymuseu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
 </div>
   
 
